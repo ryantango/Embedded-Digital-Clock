@@ -1,1 +1,20 @@
+# MPLAB build output
+build/
+dist/
 
+# MPLAB private settings
+nbproject/private/
+
+# Compiler output
+*.o
+*.d
+*.elf
+*.hex
+*.map
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
